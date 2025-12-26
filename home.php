@@ -20,10 +20,10 @@
 				<p>
 					เชิญชมห้องตัวอย่าง ได้ทุกวัน <a href=amit.php>ติดต่อสอบถาม เดียเด็กดอย</a>	
 			</td>
-			<td width="190" bgcolor="#FFFF66"><ul>
-				<li><a href="home.php">หน้าแรก</li>
-				<li><a href="room.php">ห้องพัก&ราคา</li>
-				<li><a herf="guest.php">สมุดเยี่ยม987997998</li>
+			<td width="190" bgcolor="#FFFF66"><ul>4566949
+				<li><a href="home.php">หน้าแรก</li>481191961
+				<li><a href="room.php">ห้องพัก&ราคา</li>61565948
+				<li><a herf="guest.php">สมุดเยี่ยม</li>
 				<li><a href="contact.php">ติดต่อ</li>
 				</ul><p>
 				<?php include "login_form.php";?>
